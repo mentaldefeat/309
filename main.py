@@ -21,7 +21,7 @@ o.   .88P  `88b  d88'     .88P'
 `8bd88P'    `Y8bd8P'    .oP'    
 
 discord username's availability checker
-by [blink u]https://github.com/ritualise[/blink u]
+by [blink u]https://github.com/mentaldefeat[/blink u]
 version {conf.find_option("version")}
 """
 options = """Main options:
