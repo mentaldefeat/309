@@ -1,0 +1,17 @@
+app = "309"
+version = "0.0.0"
+debug = false
+
+[settings]                              # ---The main settings of project, u can manually configure file and internal options here or do it in the running program---
+slow_mode = true                        # puts a cooldown between requests, useful if you use less than 10 tokens
+cooldown = 0.5                          # cooldown parameter accordingly
+censor_mode = true                      # hides part of tokens that are shown in console
+multitokens_mode = true                 # allows to use a few tokens
+tokens_path = "./tokens.txt"            # path to txt file with tokens
+token = ""                              # put your token here if multitokens mode is false
+
+[symbols]                               # allowed characters to use
+digits = true
+letters = true
+underlines = true
+dots = true

@@ -1,0 +1,6 @@
+pystyle
+cloudscraper
+requests
+rich
+fake_useragent
+threading
